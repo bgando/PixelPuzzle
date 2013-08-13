@@ -51,5 +51,12 @@ Here is what it looks like:
 
     </script>
 ```
+Resource
+===========
+If you have never played with pixels in canvas before, here is a good tutorial that walks you through how it works:
+http://net.tutsplus.com/tutorials/javascript-ajax/canvas-from-scratch-pixel-manipulation/
+
+Complete beginner/want a HUGE hint on how this works, see this repo:
+(SPOILER ALERT!) 
 
 
