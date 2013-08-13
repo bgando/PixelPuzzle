@@ -1,7 +1,9 @@
 PixelPuzzle
 ===========
 
-Algorithms Meetup Pixel Puzzle Challenge
+Algorithms Meetup Pixel Puzzle Challenge!
+
+There is a famous image hidden beneath the pixel-noise. Can you figure out what it is? 
 
 Getting Started
 ===========
@@ -55,8 +57,9 @@ Resource
 ===========
 If you have never played with pixels in canvas before, here is a good tutorial that walks you through how it works:
 http://net.tutsplus.com/tutorials/javascript-ajax/canvas-from-scratch-pixel-manipulation/
+http://falcon80.com/HTMLCanvas/PixelManipulation/getImageData.html
 
-Complete beginner/want a HUGE hint on how this works, see this repo:
+For beginners & those who want a HUGE hint on how this works, see this repo:
 
 (SPOILER ALERT!) 
 https://github.com/bgando/hint
