@@ -19,7 +19,7 @@ http://nodejs.org/
 
 Playing with the Code
 ===========
-All the code you need to worry about is located inside the <script></script> tags in views/index.ejs 
+All the code you need to worry about is located inside the script tags in views/index.ejs 
 
 Here is what it looks like:
 ```
