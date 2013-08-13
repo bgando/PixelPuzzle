@@ -57,6 +57,7 @@ If you have never played with pixels in canvas before, here is a good tutorial t
 http://net.tutsplus.com/tutorials/javascript-ajax/canvas-from-scratch-pixel-manipulation/
 
 Complete beginner/want a HUGE hint on how this works, see this repo:
-(SPOILER ALERT!) 
 
+(SPOILER ALERT!) 
+https://github.com/bgando/hint
 
