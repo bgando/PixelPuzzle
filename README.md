@@ -10,7 +10,7 @@ http://nodejs.org/
 2. use the terminal to make a directory and move into it:
 ```mkdir pixelPuzzle && cd pixelPuzzle ```
 3. clone repository in this directory:
-```git clone ```
+```git clone https://github.com/bgando/PixelPuzzle.git```
 4. install dependencies:
 ```npm install```
 5. run server:
